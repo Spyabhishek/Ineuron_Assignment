@@ -1,0 +1,24 @@
+.g-col-3{
+    text-align: center;
+    height: 450px;
+    
+  }
+ .g-col-9{
+    height: 450px;
+    background-color: red
+    ;
+  }
+  .section{
+    padding: 50px;
+    margin: 20px;
+    background-color: brown;
+    height:380px ;
+  }
+  .img{
+    display:inline-block;
+    flex-direction:row;
+    padding: 50px;
+    margin: 20px;
+    background-color: yellow;
+    margin-top: 150px;
+  }
