@@ -1,0 +1,12 @@
+{
+  "name": "assignment_p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
